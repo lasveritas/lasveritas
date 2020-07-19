@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Python Software Engineer, keen on Natural Language Processing.
+Python Software Engineer
